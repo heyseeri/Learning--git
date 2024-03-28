@@ -1,5 +1,5 @@
-#Name :- Nikhil Chauhan  
-#Student Id :- 130964
+#Name :- Shrirang Wadikhaye  
+#Student Id :- 131113
 
 #Function to computing integrals of functions  f a function, e.g., f(x) {x ^ 2};
 
