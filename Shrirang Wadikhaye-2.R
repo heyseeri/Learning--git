@@ -1,5 +1,5 @@
-#Name :- Nikhil Chauhan  
-#Student Id :- 130964
+#Name :- Shrirang Wadikhaye
+#Student Id :- 131113
 
 #Function to find all pure strategy Nash equilibria in a game
 # n_players <- Get the number of players in the game
